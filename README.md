@@ -1,3 +1,5 @@
 # ml-zc-hw
 
-Hello world
+Hello ML Jupyter world
+
+HW 1 Completed
